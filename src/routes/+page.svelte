@@ -18,3 +18,5 @@
 
   <div class="logo bg-red-100" />
 </div>
+
+<button class="p-2 rounded bg-blue-500 shadow-md shadow-black">I am a button with a very black shadow</button>
